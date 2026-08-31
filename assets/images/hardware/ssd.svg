@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<rect width="800" height="500" rx="40" fill="#eef2ff"/>
+<rect x="210" y="100" width="380" height="300" rx="26" fill="#172033"/>
+<rect x="250" y="145" width="300" height="210" rx="18" fill="#ffffff"/>
+<text x="400" y="240" text-anchor="middle" font-family="Arial" font-size="58" font-weight="700" fill="#315efb">SSD</text>
+<text x="400" y="295" text-anchor="middle" font-family="Arial" font-size="22" fill="#667085">Solid State Drive</text>
+</svg>

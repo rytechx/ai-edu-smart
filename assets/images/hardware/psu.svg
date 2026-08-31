@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<rect width="800" height="500" rx="40" fill="#eef2ff"/>
+<rect x="205" y="95" width="390" height="310" rx="24" fill="#172033"/>
+<circle cx="400" cy="245" r="105" fill="#315efb"/><circle cx="400" cy="245" r="75" fill="#eef2ff"/><circle cx="400" cy="245" r="24" fill="#315efb"/>
+<text x="400" y="455" text-anchor="middle" font-family="Arial" font-size="36" font-weight="700" fill="#172033">POWER SUPPLY UNIT</text>
+</svg>
